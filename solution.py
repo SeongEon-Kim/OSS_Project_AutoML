@@ -1,5 +1,5 @@
 #PLEASE WRITE THE GITHUB URL BELOW!
-#
+#https://github.com/SeongEon-Kim/OSS_Project_AutoML
 import pandas as pd
 from sklearn.model_selection import train_test_split # 데이터 셋 나누기
 from sklearn.tree import DecisionTreeClassifier # 결정 트리 분류기 
